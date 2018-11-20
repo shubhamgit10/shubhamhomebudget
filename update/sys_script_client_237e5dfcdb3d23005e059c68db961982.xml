@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>gFormAddInfoMessage</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+// 	Type appropriate comment here, and begin script below
+	alert(g_form.addInfoMessage("Hi, it is using alert(g_form.addInfoMessage method "));
+	g_form.addOption('subcategory', '5','jb');
+	g_form.addOption('subcategory', '4','shubham');
+	//g_form.clearOptions('category');
+ 	jslog("shubham s log message");
+	g_form.addDecoration('description','icon-mobile', 'need to fill this','color-red');
+	g_form.addDecoration('description','icon-star', 'need to fill thisgjg','color-blue');
+	g_form.addDecoration('description','icon-mobile', 'need to fill this','color-pink');
+	//g_form.disableAttachments();
+	//g_form.showFieldMsg('state' , 'state is ' + g_form.getSectionNames('state') , "warning" );
+// 	if('business_service' == ''){
+// 		g_form.addErrorMessage("This is error message");
+// 	g_form.clearValue('description');
+    g_form.flash("number", "#FF0000", -4);
+	
+// 	var action = g_form.getActionName();
+//    alert('You pressed ' + action);
+	
+// 	var abc = g_form.getBooleanValue('short_description');
+// 	alert(abc);
+// 	var htmlelements = g_form.getControl('description');
+// 	alert(htmlelements);
+//	}
+	//alert(g_form.getDecimalValue('description'));
+	//alert(g_form.getElement('context_personalize_menu'));
+// 	alert(g_form.getIntValue('description'));
+//	alert(g_form.getLabelOf('short_description'));
+//	g_form.getOption('state' , 'Closed');
+// g_form.addInfoMessage(g_form.getSections());
+//	g_form.addInfoMessage('The table name is '+ g_form.getTableName());
+//	g_form.addInfoMessage(g_form.getValue('short_description'));
+//g_form.hideAllFieldMsgs( );
+	//g_form.hideRelatedList('incident');
+	
+// 	if(g_form.isNewRecord()){
+// 	g_form.addInfoMessage('this is new record ' );
+//     } else{
+// 	g_form.addInfoMessage('this is not a new record ' );
+// 	}
+	
+	g_form.addInfoMessage('isSectionVisible '+ g_form.isSectionVisible('notes'));
+	//g_form.save();  //infinite loop if used in on load
+	g_form.setDisplay('state' , false);
+	
+}
+	]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-13 09:18:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>237e5dfcdb3d23005e059c68db961982</sys_id>
+        <sys_mod_count>98</sys_mod_count>
+        <sys_name>gFormAddInfoMessage</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="shubhamhomebudget" source="x_278331_shubhamho">8c246da3db3023005e059c68db9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="shubhamhomebudget">8c246da3db3023005e059c68db9619ec</sys_scope>
+        <sys_update_name>sys_script_client_237e5dfcdb3d23005e059c68db961982</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-19 11:58:55</sys_updated_on>
+        <table>incident</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

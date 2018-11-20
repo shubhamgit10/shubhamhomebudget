@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Country">d8d1eb9cdb5563005e059c68db9619ab</sc_cat_item>
+        <sc_catalog display_value="Electronics">12b51d91db3023005e059c68db9619a1</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-18 09:00:37</sys_created_on>
+        <sys_id>1102a7dcdb5563005e059c68db961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Electronics.Country</sys_name>
+        <sys_package display_value="shubhamhomebudget" source="x_278331_shubhamho">8c246da3db3023005e059c68db9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="shubhamhomebudget">8c246da3db3023005e059c68db9619ec</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_1102a7dcdb5563005e059c68db961996</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-18 09:00:37</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

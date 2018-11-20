@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Glide</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+//   var gr = new GlideRecord('sys_user');
+// 	gr.addOrderBy('created_by');
+	
+// 	var item = new GlideRecord('incident'); 
+// item.addQuery('sys_id', current.request); 
+// item.query(itemResponse); 
+ 
+// function itemResponse(item) {
+//    alert('The table is ' + item.getTableName());
+// }
+	
+	var gr = new GlideRecord('incident');
+gr.initialize(); 
+gr.name = 'incident_state'; 
+gr.updated_by = 'learn about GlideRecord'; 
+gr.insert();
+	
+	
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-19 07:28:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f82ff7aedb3123005e059c68db9619bf</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Glide</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="shubhamhomebudget" source="x_278331_shubhamho">8c246da3db3023005e059c68db9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="shubhamhomebudget">8c246da3db3023005e059c68db9619ec</sys_scope>
+        <sys_update_name>sys_script_client_f82ff7aedb3123005e059c68db9619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-19 09:40:25</sys_updated_on>
+        <table>sys_user</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

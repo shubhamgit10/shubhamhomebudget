@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2018-11-20 11:43:48">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2e1a78b4dbf923005e059c68db961941</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="shubhamhomebudget" source="x_278331_shubhamho">8c246da3db3023005e059c68db9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="shubhamhomebudget">8c246da3db3023005e059c68db9619ec</sys_scope>
+        <sys_update_name>sys_portal_page_2e1a78b4dbf923005e059c68db961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_11</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="PA New Tab">2e1a78b4dbf923005e059c68db961941</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                <sys_id>7a1a74f4dbf923005e059c68db9619a6</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">aa1a74f4dbf923005e059c68db961999</grid_canvas>
+                        <height>14</height>
+                        <portal_widget display_value="Created 2018-11-12 22:35:20">7a1a74f4dbf923005e059c68db9619a6</portal_widget>
+                        <posx>0</posx>
+                        <posy>24</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:21</sys_created_on>
+                        <sys_id>761a74f4dbf923005e059c68db9619ae</sys_id>
+                        <sys_mod_count>5</sys_mod_count>
+                        <sys_name>aa1a74f4dbf923005e059c68db961999</sys_name>
+                        <sys_package display_value="shubhamhomebudget" source="x_278331_shubhamho">8c246da3db3023005e059c68db9619ec</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="shubhamhomebudget">8c246da3db3023005e059c68db9619ec</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_761a74f4dbf923005e059c68db9619ae</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">7a1a74f4dbf923005e059c68db9619a6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>361a74f4dbf923005e059c68db9619a7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">7a1a74f4dbf923005e059c68db9619a6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>3e1a74f4dbf923005e059c68db9619a6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                        <value>ITIL Summary Counts</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">7a1a74f4dbf923005e059c68db9619a6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>fe1a74f4dbf923005e059c68db9619a6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                        <value>0ce41a9dc6112276005f7f06e323bcd2</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">2e1a78b4dbf923005e059c68db961941</page>
+                <summary>Shubham</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-11-13 06:39:03</sys_created_on>
+                <sys_id>85fa7cf4dbf923005e059c68db96199b</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">aa1a74f4dbf923005e059c68db961999</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 2018-11-12 22:39:03">85fa7cf4dbf923005e059c68db96199b</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:39:03</sys_created_on>
+                        <sys_id>c9fa7438dbf923005e059c68db9619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_name>aa1a74f4dbf923005e059c68db961999</sys_name>
+                        <sys_package display_value="shubhamhomebudget" source="x_278331_shubhamho">8c246da3db3023005e059c68db9619ec</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="shubhamhomebudget">8c246da3db3023005e059c68db9619ec</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_c9fa7438dbf923005e059c68db9619e6</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <width>12</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-11-12 22:39:03">85fa7cf4dbf923005e059c68db96199b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:39:03</sys_created_on>
+                        <sys_id>09fa7cf4dbf923005e059c68db96199c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-11-12 22:39:03">85fa7cf4dbf923005e059c68db96199b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:39:03</sys_created_on>
+                        <sys_id>45fa7cf4dbf923005e059c68db96199c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-11-12 22:39:03">85fa7cf4dbf923005e059c68db96199b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:39:03</sys_created_on>
+                        <sys_id>81fa7cf4dbf923005e059c68db96199c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-11-12 22:39:03">85fa7cf4dbf923005e059c68db96199b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:39:03</sys_created_on>
+                        <sys_id>89fa7cf4dbf923005e059c68db96199b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <value>e763b0f0dbf923005e059c68db96198d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-11-12 22:39:03">85fa7cf4dbf923005e059c68db96199b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:39:03</sys_created_on>
+                        <sys_id>8dfa7cf4dbf923005e059c68db96199c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <value>Shubham</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-11-12 22:39:03">85fa7cf4dbf923005e059c68db96199b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:39:03</sys_created_on>
+                        <sys_id>c9fa7cf4dbf923005e059c68db96199c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-11-12 22:39:03">85fa7cf4dbf923005e059c68db96199b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:39:03</sys_created_on>
+                        <sys_id>cdfa7cf4dbf923005e059c68db96199b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>2</offset>
+                <page display_value="PA New Tab">2e1a78b4dbf923005e059c68db961941</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                <sys_id>b61a74f4dbf923005e059c68db9619a3</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">aa1a74f4dbf923005e059c68db961999</grid_canvas>
+                        <height>14</height>
+                        <portal_widget display_value="Created 2018-11-12 22:35:20">b61a74f4dbf923005e059c68db9619a3</portal_widget>
+                        <posx>4</posx>
+                        <posy>10</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:21</sys_created_on>
+                        <sys_id>fa1a74f4dbf923005e059c68db9619ab</sys_id>
+                        <sys_mod_count>5</sys_mod_count>
+                        <sys_name>aa1a74f4dbf923005e059c68db961999</sys_name>
+                        <sys_package display_value="shubhamhomebudget" source="x_278331_shubhamho">8c246da3db3023005e059c68db9619ec</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="shubhamhomebudget">8c246da3db3023005e059c68db9619ec</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_fa1a74f4dbf923005e059c68db9619ab</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">b61a74f4dbf923005e059c68db9619a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>721a74f4dbf923005e059c68db9619a4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='' href='task_list.do?sysparm_query=assigned_to%3Djavascript%3Ags.user_id%28%29%5EORassignment_group%3Djavascript%3AgetMyGroups%28%29%5Eactive%3Dtrue%5EEQ'&amp;gt;My Work&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">b61a74f4dbf923005e059c68db9619a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>7a1a74f4dbf923005e059c68db9619a3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                        <value>20a328e0c0a8000900101da96fab7aca</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">b61a74f4dbf923005e059c68db9619a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>be1a74f4dbf923005e059c68db9619a3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="PA New Tab">2e1a78b4dbf923005e059c68db961941</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                <sys_id>b61a74f4dbf923005e059c68db9619a4</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">aa1a74f4dbf923005e059c68db961999</grid_canvas>
+                        <height>14</height>
+                        <portal_widget display_value="Created 2018-11-12 22:35:20">b61a74f4dbf923005e059c68db9619a4</portal_widget>
+                        <posx>8</posx>
+                        <posy>10</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:21</sys_created_on>
+                        <sys_id>321a74f4dbf923005e059c68db9619ad</sys_id>
+                        <sys_mod_count>5</sys_mod_count>
+                        <sys_name>aa1a74f4dbf923005e059c68db961999</sys_name>
+                        <sys_package display_value="shubhamhomebudget" source="x_278331_shubhamho">8c246da3db3023005e059c68db9619ec</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="shubhamhomebudget">8c246da3db3023005e059c68db9619ec</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_321a74f4dbf923005e059c68db9619ad</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">b61a74f4dbf923005e059c68db9619a4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>361a74f4dbf923005e059c68db9619a5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                        <value>Open Items by Escalation</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">b61a74f4dbf923005e059c68db9619a4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>721a74f4dbf923005e059c68db9619a5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                        <value>8b8aa066c611228901698cbe24ffd91e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">b61a74f4dbf923005e059c68db9619a4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>7a1a74f4dbf923005e059c68db9619a4</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:35</sys_updated_on>
+                        <value>14fe248ac3030100517a3b251eba8f5f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">b61a74f4dbf923005e059c68db9619a4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>be1a74f4dbf923005e059c68db9619a4</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:35</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="PA New Tab">2e1a78b4dbf923005e059c68db961941</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                <sys_id>f61a74f4dbf923005e059c68db9619a1</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">aa1a74f4dbf923005e059c68db961999</grid_canvas>
+                        <height>14</height>
+                        <portal_widget display_value="Created 2018-11-12 22:35:20">f61a74f4dbf923005e059c68db9619a1</portal_widget>
+                        <posx>0</posx>
+                        <posy>10</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:21</sys_created_on>
+                        <sys_id>b61a74f4dbf923005e059c68db9619aa</sys_id>
+                        <sys_mod_count>5</sys_mod_count>
+                        <sys_name>aa1a74f4dbf923005e059c68db961999</sys_name>
+                        <sys_package display_value="shubhamhomebudget" source="x_278331_shubhamho">8c246da3db3023005e059c68db9619ec</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="shubhamhomebudget">8c246da3db3023005e059c68db9619ec</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_b61a74f4dbf923005e059c68db9619aa</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:39:03</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">f61a74f4dbf923005e059c68db9619a1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>7a1a74f4dbf923005e059c68db9619a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='' href='task_list.do?sysparm_query=assignment_group%3Djavascript%3AgetMyGroups%28%29%5Eactive%3Dtrue%5Estate%21%3D-5%5EEQ'&amp;gt;My Groups Work&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">f61a74f4dbf923005e059c68db9619a1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>b61a74f4dbf923005e059c68db9619a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-11-12 22:35:20">f61a74f4dbf923005e059c68db9619a1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-11-13 06:35:20</sys_created_on>
+                        <sys_id>ba1a74f4dbf923005e059c68db9619a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-11-13 06:35:20</sys_updated_on>
+                        <value>e8c2c3cac0a8000500186af3308a1b18</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="entertainment" table="x_278331_shubhamho_dailyexpenses" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>entertainment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Game</label>
+            <language>en</language>
+            <name>x_278331_shubhamho_dailyexpenses</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 13:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>028bdb0cdb1d23005e059c68db961987</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-18 12:07:19</sys_updated_on>
+            <value>100</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>entertainment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Movie</label>
+            <language>en</language>
+            <name>x_278331_shubhamho_dailyexpenses</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 13:53:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b76bdb0cdb1d23005e059c68db961984</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-18 12:07:19</sys_updated_on>
+            <value>200</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>entertainment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wonder La</label>
+            <language>en</language>
+            <name>x_278331_shubhamho_dailyexpenses</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 13:55:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ebbdb4cdb1d23005e059c68db9619d1</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-18 12:07:19</sys_updated_on>
+            <value>300</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>entertainment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Football</label>
+            <language>en</language>
+            <name>x_278331_shubhamho_dailyexpenses</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-18 12:07:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4cc00e4dbd563005e059c68db961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-18 12:07:19</sys_updated_on>
+            <value>Football</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>entertainment</element>
+            <name>x_278331_shubhamho_dailyexpenses</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 13:52:51</sys_created_on>
+            <sys_id>5c5bd78cdbd923005e059c68db9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>entertainment</sys_name>
+            <sys_package display_value="shubhamhomebudget" source="x_278331_shubhamho">8c246da3db3023005e059c68db9619ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="shubhamhomebudget">8c246da3db3023005e059c68db9619ec</sys_scope>
+            <sys_update_name>sys_choice_x_278331_shubhamho_dailyexpenses_entertainment</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 13:52:51</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

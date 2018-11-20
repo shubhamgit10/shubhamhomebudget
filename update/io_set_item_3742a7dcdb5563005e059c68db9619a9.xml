@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="Country">d8d1eb9cdb5563005e059c68db9619ab</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-18 09:01:53</sys_created_on>
+        <sys_id>3742a7dcdb5563005e059c68db9619a9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>shubhamVariableSet.Country</sys_name>
+        <sys_package display_value="shubhamhomebudget" source="x_278331_shubhamho">8c246da3db3023005e059c68db9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="shubhamhomebudget">8c246da3db3023005e059c68db9619ec</sys_scope>
+        <sys_update_name>io_set_item_3742a7dcdb5563005e059c68db9619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-18 09:01:53</sys_updated_on>
+        <variable_set display_value="shubhamVariableSet">54f0ab9cdb5563005e059c68db961951</variable_set>
+    </io_set_item>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="DailyExpenses" max_length="40" name="x_278331_shubhamho_dailyexpenses" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element choice="1" label="Entertainment" mandatory="true" max_length="40" name="entertainment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Game" sequence="0" value="100"/>
+                <element inactive_on_update="false" label="Movie" sequence="1" value="200"/>
+                <element inactive_on_update="false" label="Wonder La" sequence="2" value="300"/>
+                <element inactive_on_update="false" label="Football" sequence="3" value="Football"/>
+            </choice>
+        </element>
+        <element label="Food" max_length="40" name="food" type="string"/>
+        <element label="Others" max_length="40" name="others" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Transport" max_length="40" name="transport" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

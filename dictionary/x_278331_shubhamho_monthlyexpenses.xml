@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_278331_shubhamho_dailyexpenses" label="MonthlyExpenses" max_length="40" name="x_278331_shubhamho_monthlyexpenses" type="collection"/>
+</database>
